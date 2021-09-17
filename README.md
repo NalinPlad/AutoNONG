@@ -1,2 +1,4 @@
 # AutoNONG
- A python program that automatically replaces song IDs in geometry dash
+Hello! 👋
+
+AutoNONG is a tool for automatically replacing songs in Geometry dash
